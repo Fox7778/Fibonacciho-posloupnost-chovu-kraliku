@@ -10,7 +10,7 @@ function generateFibonacci(n) {
    let stars ="";
    let j = 0;
    while(j < a){
-    stars+="**";
+    stars+="🐇🐇";
     j++;
    }
    mesic.innerHTML = stars;
